@@ -1,3 +1,8 @@
+un-Released 4.4.1 (May 30, 2023)
+----------------------------
+
+* Improve compatibility with 3rd-party database backends not supported officially.
+
 Release 4.4 (Jan 13, 2021)
 ----------------------------
 
